@@ -36,4 +36,5 @@ def print_table(table, start, end):
     for i in range(start, end + 1):
         print(f"{table} * {i} = {table * i}")
 
- 
+
+print_table(6, 2, 8)
