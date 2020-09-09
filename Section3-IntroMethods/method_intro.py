@@ -38,3 +38,5 @@ def print_table(table, start, end):
 
 
 print_table(6, 2, 8)
+
+
