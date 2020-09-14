@@ -15,4 +15,5 @@ def calculate_simple_interest2(principal, interest, duration):
 def calculate_simple_interest3(principal, interest, duration):
     return principal + interest * 0.01 * duration * principal
 
+
 print(calculate_simple_interest3(20000, 6, 4))
